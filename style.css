@@ -1,0 +1,47 @@
+h1{
+ border: 20px solid blueviolet; 
+ border-radius: 20px 35px ;  
+ margin: 9px 12px;
+ padding: 23px 45px;
+}
+p{
+color: rgb(255, 255, 17);
+background-color: rgb(244, 43, 43)
+font-family: monospace;
+font-size: larger;
+}
+.tt{
+color:red;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+}
+
+.ee{
+background-color: green;
+
+
+
+}
+#yy{
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.qq{
+background-color: blueviolet;
+
+}
+.rr{
+
+    color: aqua; 
+    size: 70px;
+}
+#ww{
+color: rgb(122, 237, 7);
+font-size: 25px;
+
+}
+img{
+width: 60%;
+
+}
